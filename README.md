@@ -5,12 +5,12 @@
 A lightweight, terminal-based Python application to help you log, track, and manage your daily spending. Whether it's food, travel, or impulsive shopping, this tool keeps your "kharcha" (expenses) in check.
 
 🚀 Features
-  -- Add Expenses: Log the date, category, description, and amount.
+    -- Add Expenses: Log the date, category, description, and amount.
   
-  --View History: Display a numbered list of all recorded expenses.
+    --View History: Display a numbered list of all recorded expenses.
 
-  --Total Summary: Instantly calculate the sum of all your spending.
+    --Total Summary: Instantly calculate the sum of all your spending.
 
-  --Simple Interface: User-friendly command-line menu.
+    --Simple Interface: User-friendly command-line menu.
   
 A simple Python Expense Tracker that allows users to record, view, and calculate their daily spending. This project is menu-driven and     built using lists and dictionaries, making it a great beginner-friendly program to practice Python fundamentals.
